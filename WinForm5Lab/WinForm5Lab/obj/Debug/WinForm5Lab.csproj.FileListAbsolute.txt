@@ -1,0 +1,10 @@
+C:\Users\tetie\source\repos\WinForm5Lab\WinForm5Lab\bin\Debug\WinForm5Lab.exe.config
+C:\Users\tetie\source\repos\WinForm5Lab\WinForm5Lab\bin\Debug\WinForm5Lab.exe
+C:\Users\tetie\source\repos\WinForm5Lab\WinForm5Lab\bin\Debug\WinForm5Lab.pdb
+C:\Users\tetie\source\repos\WinForm5Lab\WinForm5Lab\obj\Debug\WinForm5Lab.csproj.AssemblyReference.cache
+C:\Users\tetie\source\repos\WinForm5Lab\WinForm5Lab\obj\Debug\WinForm5Lab.Form1.resources
+C:\Users\tetie\source\repos\WinForm5Lab\WinForm5Lab\obj\Debug\WinForm5Lab.Properties.Resources.resources
+C:\Users\tetie\source\repos\WinForm5Lab\WinForm5Lab\obj\Debug\WinForm5Lab.csproj.GenerateResource.cache
+C:\Users\tetie\source\repos\WinForm5Lab\WinForm5Lab\obj\Debug\WinForm5Lab.csproj.CoreCompileInputs.cache
+C:\Users\tetie\source\repos\WinForm5Lab\WinForm5Lab\obj\Debug\WinForm5Lab.exe
+C:\Users\tetie\source\repos\WinForm5Lab\WinForm5Lab\obj\Debug\WinForm5Lab.pdb
